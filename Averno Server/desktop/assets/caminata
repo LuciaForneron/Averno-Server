@@ -1,0 +1,76 @@
+
+caminata.png
+size: 512, 1024
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+caminata
+  rotate: false
+  xy: 0, 316
+  size: 104, 316
+  orig: 104, 316
+  offset: 0, 0
+  index: -1
+caminata
+  rotate: false
+  xy: 104, 0
+  size: 104, 316
+  orig: 104, 316
+  offset: 0, 0
+  index: -1
+caminata
+  rotate: false
+  xy: 0, 0
+  size: 104, 316
+  orig: 104, 316
+  offset: 0, 0
+  index: -1
+caminata
+  rotate: false
+  xy: 208, 0
+  size: 104, 316
+  orig: 104, 316
+  offset: 0, 0
+  index: -1
+caminata
+  rotate: false
+  xy: 208, 632
+  size: 104, 316
+  orig: 104, 316
+  offset: 0, 0
+  index: -1
+caminata
+  rotate: false
+  xy: 104, 632
+  size: 104, 316
+  orig: 104, 316
+  offset: 0, 0
+  index: -1
+caminata
+  rotate: false
+  xy: 208, 316
+  size: 104, 316
+  orig: 104, 316
+  offset: 0, 0
+  index: -1
+caminata
+  rotate: false
+  xy: 104, 316
+  size: 104, 316
+  orig: 104, 316
+  offset: 0, 0
+  index: -1
+caminata
+  rotate: false
+  xy: 0, 632
+  size: 104, 316
+  orig: 104, 316
+  offset: 0, 0
+  index: -1
+caminata
+  rotate: false
+  xy: 312, 632
+  size: 104, 316
+  orig: 104, 316
+  offset: 0, 0
+  index: -1
